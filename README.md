@@ -25,7 +25,7 @@ This project aims to analyze Secure Health General Hospital's patient dataset us
 # Dashboard Visualization
 The dashboard provides a visual overview of hospital performance, including patient admissions, departmental distribution, demographics, billing, and payment status.
 
-![](Dashboard_Image.png)
+![](Dashboard_image.png)
 
 Figure 1: Hospital Performance Dashboard created using Microsoft Excel.
 
